@@ -1,0 +1,12 @@
+@charset 'utf-8';
+
+
+body.course-menu-expanded:not(.ic-no-flex-layout):not(.embedded):not(.is-inside-submission-frame) .ic-Layout-columns {
+    display: flex;
+    margin-left: 0;
+}
+
+.ic-app-course-menu {
+   position: sticky;
+   align-self: flex-start;
+}
