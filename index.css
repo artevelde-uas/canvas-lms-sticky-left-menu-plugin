@@ -7,6 +7,7 @@ body.course-menu-expanded:not(.ic-no-flex-layout):not(.embedded):not(.is-inside-
 }
 
 .ic-app-course-menu {
+    position: -webkit-sticky; /* fix: Safari needs prefix */
     position: sticky;
     align-self: flex-start;
 }
