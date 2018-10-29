@@ -1,6 +1,6 @@
 {
   "name": "@ahsdile/canvas-lms-sticky-left-menu-plugin",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Plugin for the Canvas LMS theme app that makes the left menu sticky when scrolling",
   "keywords": ["Canvas LMS"],
   "license": "MIT",
