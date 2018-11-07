@@ -6,7 +6,6 @@
 
 :global .ic-app-course-menu {
     position: static; /* fix: Reset for IE */
-    position: -webkit-sticky; /* fix: Safari needs prefix */
     position: sticky;
     align-self: flex-start;
 }
